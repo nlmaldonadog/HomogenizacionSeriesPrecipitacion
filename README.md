@@ -8,7 +8,11 @@ El documento base es la "GUÍA PARA EL PROCESAMIENTO DE SERIES DE TIEMPO DE PREC
 
 Este trabajo es desarrollado utilizando los datos tomados y puestos a disposición por el IDEAM(Instituto de Hidrología, Meteorología y Estudios Ambientales de Colombia), los cuales cuentan con una licencia pública para realizar trabajos investigativos. Los datos de este estudio particular fueron descargados desde el protal DHIME de forma manual.
 
-Recursos:
+## Recursos:
 - [GUÍA PARA EL PROCESAMIENTO DE SERIES DE TIEMPO DE PRECIPITACIÓN Y TEMPERATURA: ESTIMACIÓN DE CAMBIOS Y HOMOGENIZACIÓN PROCESAMIENTO DE DATOS EN EXCEL, APSS, TSW Y ANCLIM](https://editorial.udistrital.edu.co/detalle.php?id=1095&f=6)
 - [DHIME - Portal de Datos - IDEAM](http://dhime.ideam.gov.co/atencionciudadano/)
 - [Geovisor - IDEAM](https://visualizador.ideam.gov.co/GEOVISOR_IDEAM/)
+
+## Referencias
+
+1. Bernal, N. R., Barrios, J. S., Ramos, M. A., Velásquez, C., & Ibarra, Y. C. (2012). Propuesta Metodológica para la Homogenización de Series de Tiempo de Precipitación Mensual y su utilidad en procesos de toma de decisiones, estudio de caso Región Climatológica del Bajo Magdalena. *XXII Simposio Internacional de Estadística* Bucaramanga, Colombia.
