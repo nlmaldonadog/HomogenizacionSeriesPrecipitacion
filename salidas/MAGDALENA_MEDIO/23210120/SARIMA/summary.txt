@@ -1,0 +1,27 @@
+                                  SARIMAX Results                                  
+===================================================================================
+Dep. Variable:      Precipitación_imputada   No. Observations:                  240
+Model:             ARIMA(1, 0, [1, 2], 12)   Log Likelihood               -1441.509
+Date:                     Mon, 01 Jul 2024   AIC                           2893.017
+Time:                             13:32:57   BIC                           2910.421
+Sample:                                  0   HQIC                          2900.030
+                                     - 240                                         
+Covariance Type:                       opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        147.8524     32.906      4.493      0.000      83.358     212.346
+ar.S.L12       0.9999      0.001    728.656      0.000       0.997       1.003
+ma.S.L12      -0.9429      0.089    -10.617      0.000      -1.117      -0.769
+ma.S.L24      -0.0414      0.035     -1.168      0.243      -0.111       0.028
+sigma2      8504.5873      0.080   1.06e+05      0.000    8504.431    8504.744
+===================================================================================
+Ljung-Box (L1) (Q):                   0.16   Jarque-Bera (JB):                 6.86
+Prob(Q):                              0.69   Prob(JB):                         0.03
+Heteroskedasticity (H):               0.76   Skew:                             0.18
+Prob(H) (two-sided):                  0.23   Kurtosis:                         3.75
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number 8.29e+20. Standard errors may be unstable.

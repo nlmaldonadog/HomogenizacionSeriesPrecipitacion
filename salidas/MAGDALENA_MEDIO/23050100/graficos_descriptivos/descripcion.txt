@@ -1,0 +1,281 @@
+               Año  Precipitación
+count   240.000000     237.000000
+mean   2009.500000     224.439662
+std       5.778332     131.157329
+min    2000.000000       0.000000
+25%    2004.750000     124.600000
+50%    2009.500000     207.100000
+75%    2014.250000     312.300000
+max    2019.000000     652.400000
+
+Nulos:
+Fecha            0
+Mes              0
+Año              0
+Precipitación    3
+dtype: int64
+
+Mes: Enero
+              Año  Precipitación
+count    20.00000        20.0000
+mean   2009.50000        97.6450
+std       5.91608        79.0773
+min    2000.00000         3.7000
+25%    2004.75000        33.6250
+50%    2009.50000        79.2500
+75%    2014.25000       141.4250
+max    2019.00000       269.4000
+
+Cuartiles:
+Q1: 33.625
+Q2: 79.25
+Q3: 141.425
+IQR: 107.80000000000001
+Datos atipicos:
+Limite inferior: -128.07500000000002
+Limite superior: 303.125
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Febrero
+              Año  Precipitación
+count    20.00000       20.00000
+mean   2009.50000      122.26500
+std       5.91608      100.68104
+min    2000.00000        0.00000
+25%    2004.75000       43.02500
+50%    2009.50000      101.40000
+75%    2014.25000      167.65000
+max    2019.00000      336.00000
+
+Cuartiles:
+Q1: 43.025
+Q2: 101.4
+Q3: 167.65
+IQR: 124.625
+Datos atipicos:
+Limite inferior: -143.9125
+Limite superior: 354.5875
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Marzo
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     264.690000
+std       5.91608     121.540333
+min    2000.00000      34.900000
+25%    2004.75000     180.175000
+50%    2009.50000     254.300000
+75%    2014.25000     377.000000
+max    2019.00000     473.800000
+
+Cuartiles:
+Q1: 180.175
+Q2: 254.3
+Q3: 377.0
+IQR: 196.825
+Datos atipicos:
+Limite inferior: -115.06249999999994
+Limite superior: 672.2375
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Abril
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     337.875000
+std       5.91608     106.405554
+min    2000.00000     120.300000
+25%    2004.75000     291.675000
+50%    2009.50000     322.050000
+75%    2014.25000     368.375000
+max    2019.00000     652.400000
+
+Cuartiles:
+Q1: 291.675
+Q2: 322.05
+Q3: 368.375
+IQR: 76.69999999999999
+Datos atipicos:
+Limite inferior: 176.62500000000003
+Limite superior: 483.42499999999995
+Datos atipicos inferiores: 1
+Datos atipicos superiores: 1
+
+Mes: Mayo
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     291.740000
+std       5.91608     116.416188
+min    2000.00000     126.300000
+25%    2004.75000     195.000000
+50%    2009.50000     272.250000
+75%    2014.25000     369.150000
+max    2019.00000     496.100000
+
+Cuartiles:
+Q1: 195.0
+Q2: 272.25
+Q3: 369.15
+IQR: 174.14999999999998
+Datos atipicos:
+Limite inferior: -66.22499999999997
+Limite superior: 630.375
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Junio
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     142.720000
+std       5.91608      83.303583
+min    2000.00000      33.800000
+25%    2004.75000      71.400000
+50%    2009.50000     131.400000
+75%    2014.25000     190.175000
+max    2019.00000     343.000000
+
+Cuartiles:
+Q1: 71.39999999999999
+Q2: 131.4
+Q3: 190.175
+IQR: 118.77500000000002
+Datos atipicos:
+Limite inferior: -106.76250000000003
+Limite superior: 368.33750000000003
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Julio
+              Año  Precipitación
+count    20.00000       20.00000
+mean   2009.50000      129.59500
+std       5.91608       74.86305
+min    2000.00000       15.50000
+25%    2004.75000       78.97500
+50%    2009.50000      112.35000
+75%    2014.25000      150.72500
+max    2019.00000      293.80000
+
+Cuartiles:
+Q1: 78.975
+Q2: 112.35
+Q3: 150.72500000000002
+IQR: 71.75000000000003
+Datos atipicos:
+Limite inferior: -28.65000000000005
+Limite superior: 258.3500000000001
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 1
+
+Mes: Agosto
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     187.275000
+std       5.91608     126.093307
+min    2000.00000      11.300000
+25%    2004.75000      97.875000
+50%    2009.50000     178.050000
+75%    2014.25000     234.450000
+max    2019.00000     487.200000
+
+Cuartiles:
+Q1: 97.875
+Q2: 178.05
+Q3: 234.45
+IQR: 136.575
+Datos atipicos:
+Limite inferior: -106.98749999999998
+Limite superior: 439.3125
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 1
+
+Mes: Septiembre
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     252.500000
+std       5.91608      97.646381
+min    2000.00000     100.600000
+25%    2004.75000     202.925000
+50%    2009.50000     229.800000
+75%    2014.25000     283.800000
+max    2019.00000     483.200000
+
+Cuartiles:
+Q1: 202.92499999999998
+Q2: 229.8
+Q3: 283.8
+IQR: 80.87500000000003
+Datos atipicos:
+Limite inferior: 81.61249999999994
+Limite superior: 405.11250000000007
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 2
+
+Mes: Octubre
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     398.995000
+std       5.91608      77.662173
+min    2000.00000     239.200000
+25%    2004.75000     362.300000
+50%    2009.50000     405.500000
+75%    2014.25000     430.650000
+max    2019.00000     592.400000
+
+Cuartiles:
+Q1: 362.3
+Q2: 405.5
+Q3: 430.65
+IQR: 68.34999999999997
+Datos atipicos:
+Limite inferior: 259.7750000000001
+Limite superior: 533.175
+Datos atipicos inferiores: 1
+Datos atipicos superiores: 1
+
+Mes: Noviembre
+              Año  Precipitación
+count    20.00000      20.000000
+mean   2009.50000     270.425000
+std       5.91608      93.396596
+min    2000.00000      63.800000
+25%    2004.75000     219.900000
+50%    2009.50000     273.650000
+75%    2014.25000     341.575000
+max    2019.00000     439.600000
+
+Cuartiles:
+Q1: 219.9
+Q2: 273.65
+Q3: 341.575
+IQR: 121.67499999999998
+Datos atipicos:
+Limite inferior: 37.38750000000002
+Limite superior: 524.0875
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+
+Mes: Diciembre
+              Año  Precipitación
+count    20.00000      17.000000
+mean   2009.50000     192.805882
+std       5.91608      59.633720
+min    2000.00000      70.400000
+25%    2004.75000     144.300000
+50%    2009.50000     189.700000
+75%    2014.25000     226.300000
+max    2019.00000     310.600000
+
+Cuartiles:
+Q1: 144.3
+Q2: 189.7
+Q3: 226.3
+IQR: 82.0
+Datos atipicos:
+Limite inferior: 21.30000000000001
+Limite superior: 349.3
+Datos atipicos inferiores: 0
+Datos atipicos superiores: 0
+

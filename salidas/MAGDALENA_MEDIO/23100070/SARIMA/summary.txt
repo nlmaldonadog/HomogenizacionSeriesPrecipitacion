@@ -1,0 +1,26 @@
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:     Precipitación_imputada   No. Observations:                  240
+Model:               ARIMA(1, 0, [1], 12)   Log Likelihood               -1523.937
+Date:                    Mon, 01 Jul 2024   AIC                           3055.874
+Time:                            12:34:19   BIC                           3069.797
+Sample:                                 0   HQIC                          3061.484
+                                    - 240                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        230.7122     31.783      7.259      0.000     168.419     293.005
+ar.S.L12       0.9998      0.002    434.005      0.000       0.995       1.004
+ma.S.L12      -0.9835      0.082    -12.013      0.000      -1.144      -0.823
+sigma2      1.711e+04      0.013   1.36e+06      0.000    1.71e+04    1.71e+04
+===================================================================================
+Ljung-Box (L1) (Q):                   1.30   Jarque-Bera (JB):                 8.86
+Prob(Q):                              0.25   Prob(JB):                         0.01
+Heteroskedasticity (H):               0.84   Skew:                             0.27
+Prob(H) (two-sided):                  0.44   Kurtosis:                         3.77
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number 1.77e+22. Standard errors may be unstable.

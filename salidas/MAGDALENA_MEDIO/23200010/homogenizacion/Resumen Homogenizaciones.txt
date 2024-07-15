@@ -1,0 +1,37 @@
+Estacion: 23200010, Vecinas:, [23190710]
+
+Mes: January - Punto de Cambio: 2004
+Antes del cambio: Pendiente = 0.0, Intercepto = 0.0, R² = 1.0
+Después del cambio: Pendiente = 2.405822855845847, Intercepto = 67.38514789199675, R² = 0.7579974994436922
+Ajuste los datos después del punto de cambio con factor: 0.0
+
+Mes: April - Punto de Cambio: 2003
+Antes del cambio: Pendiente = 0.4721438798976006, Intercepto = -15.879297377822127, R² = 0.9700359297197572
+Después del cambio: Pendiente = 0.8200613029610337, Intercepto = -2.0162203633842637, R² = 0.9800359755411444
+Ajuste los datos después del punto de cambio con factor: 0.5757421770699441
+
+Mes: May - Punto de Cambio: 2017
+Antes del cambio: Pendiente = 0.7396035381605668, Intercepto = -167.91061006526525, R² = 0.9853224792794539
+Después del cambio: Pendiente = 1.1531902757361583, Intercepto = -2358.864113574309, R² = 0.9877867217292642
+Ajuste los datos después del punto de cambio con factor: 0.641354296617207
+
+Mes: July - Punto de Cambio: 2006
+Antes del cambio: Pendiente = 0.3612820667962062, Intercepto = 71.28235136820612, R² = 0.9049444828425359
+Después del cambio: Pendiente = 0.786478594038677, Intercepto = -327.3411321610556, R² = 0.9909490358025999
+Ajuste los datos después del punto de cambio con factor: 0.45936668783440443
+
+Mes: August - Punto de Cambio: 2006
+Antes del cambio: Pendiente = 0.20426131560722685, Intercepto = 112.85197283533621, R² = 0.8036258800552151
+Después del cambio: Pendiente = 0.7881948002512055, Intercepto = -898.0038884615228, R² = 0.9843183974151248
+Ajuste los datos después del punto de cambio con factor: 0.25915080325590417
+
+Mes: September - Punto de Cambio: 2006
+Antes del cambio: Pendiente = 0.26423870868871013, Intercepto = 52.559361267894474, R² = 0.9405638270219465
+Después del cambio: Pendiente = 0.8955545023711127, Intercepto = -1421.737837944635, R² = 0.9804611294058003
+Ajuste los datos después del punto de cambio con factor: 0.2950559770389174
+
+Mes: October - Punto de Cambio: 2012
+Antes del cambio: Pendiente = 0.5147820757542145, Intercepto = 2.3069587887529224, R² = 0.9682755453428302
+Después del cambio: Pendiente = 1.040137050351573, Intercepto = -1620.0229724682968, R² = 0.9782466407803747
+Ajuste los datos después del punto de cambio con factor: 0.49491754531791254
+

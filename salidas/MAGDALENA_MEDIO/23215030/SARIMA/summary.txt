@@ -1,0 +1,30 @@
+                                     SARIMAX Results                                      
+==========================================================================================
+Dep. Variable:             Precipitación_imputada   No. Observations:                  240
+Model:             ARIMA(2, 0, 2)x(1, 0, [1], 12)   Log Likelihood               -1314.689
+Date:                            Mon, 01 Jul 2024   AIC                           2645.377
+Time:                                    13:35:15   BIC                           2673.223
+Sample:                                         0   HQIC                          2656.597
+                                            - 240                                         
+Covariance Type:                              opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        109.0687     15.651      6.969      0.000      78.394     139.744
+ar.L1          0.0329      0.043      0.764      0.445      -0.051       0.117
+ar.L2          0.9664      0.470      2.058      0.040       0.046       1.887
+ma.L1         -0.0398      0.039     -1.027      0.304      -0.116       0.036
+ma.L2         -0.9597      0.499     -1.922      0.055      -1.938       0.019
+ar.S.L12       0.9988      0.006    163.483      0.000       0.987       1.011
+ma.S.L12      -0.9652      0.085    -11.363      0.000      -1.132      -0.799
+sigma2      3470.1512      0.018   1.95e+05      0.000    3470.116    3470.186
+===================================================================================
+Ljung-Box (L1) (Q):                   1.03   Jarque-Bera (JB):                25.91
+Prob(Q):                              0.31   Prob(JB):                         0.00
+Heteroskedasticity (H):               0.87   Skew:                             0.46
+Prob(H) (two-sided):                  0.53   Kurtosis:                         4.32
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number 1.8e+21. Standard errors may be unstable.

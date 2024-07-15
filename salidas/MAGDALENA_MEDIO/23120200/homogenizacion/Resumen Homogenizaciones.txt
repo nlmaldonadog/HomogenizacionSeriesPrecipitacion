@@ -1,0 +1,32 @@
+Estacion: 23120200, Vecinas:, [23125050]
+
+Mes: Febrero - Punto de Cambio: 2017
+Antes del cambio: Pendiente = 0.9182005461903783, Intercepto = 258.25530858796014, R² = 0.9806433659664056
+Después del cambio: Pendiente = 0.4796329802479788, Intercepto = 1152.94486691141, R² = 0.9973370978485171
+Ajuste los datos después del punto de cambio con factor: 1.9143815875956909
+
+Mes: Mayo - Punto de Cambio: 2004
+Antes del cambio: Pendiente = 1.7671996931534575, Intercepto = -482.552129500707, R² = 0.9643371401349687
+Después del cambio: Pendiente = 0.8844116588056855, Intercepto = 866.0103292504659, R² = 0.9948337672200369
+Ajuste los datos antes del punto de cambio con factor: 0.5004593777557239
+
+Mes: Junio - Punto de Cambio: 2013
+Antes del cambio: Pendiente = 0.9592674079014327, Intercepto = 93.74388230427826, R² = 0.9944132515833269
+Después del cambio: Pendiente = 1.2917921062436724, Intercepto = -1025.3133703288922, R² = 0.9353485696831351
+Ajuste los datos después del punto de cambio con factor: 0.7425865224481291
+
+Mes: Julio - Punto de Cambio: 2011
+Antes del cambio: Pendiente = 0.960432225652714, Intercepto = 4.812064516567489, R² = 0.9728596637604561
+Después del cambio: Pendiente = 0.6017981394280278, Intercepto = 1133.6813776689942, R² = 0.9807478718700875
+Ajuste los datos después del punto de cambio con factor: 1.5959375124780975
+
+Mes: Agosto - Punto de Cambio: 2005
+Antes del cambio: Pendiente = 1.1879005162259089, Intercepto = -39.75594073305399, R² = 0.8822907617210743
+Después del cambio: Pendiente = 0.9691585733818008, Intercepto = 241.36618252907147, R² = 0.9919329435185413
+Ajuste los datos antes del punto de cambio con factor: 0.8158583653628879
+
+Mes: Octubre - Punto de Cambio: 2012
+Antes del cambio: Pendiente = 1.1878622902197842, Intercepto = -203.2788840007206, R² = 0.9959738625469359
+Después del cambio: Pendiente = 1.0083038705062297, Intercepto = 494.2765026788984, R² = 0.978375851667531
+Ajuste los datos después del punto de cambio con factor: 1.1780796692007194
+

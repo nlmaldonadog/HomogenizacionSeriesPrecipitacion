@@ -1,0 +1,32 @@
+Estacion: 23100050, Vecinas:, [23100070]
+
+Mes: Marzo - Punto de Cambio: 2013
+Antes del cambio: Pendiente = 1.2537612778572733, Intercepto = -77.39013575837203, R² = 0.9928992934102319
+Después del cambio: Pendiente = 0.8845760505313998, Intercepto = 836.0635930552303, R² = 0.9877634159178698
+Ajuste los datos después del punto de cambio con factor: 1.4173583798748444
+
+Mes: Abril - Punto de Cambio: 2013
+Antes del cambio: Pendiente = 0.8254660840297057, Intercepto = -178.60605186988596, R² = 0.988056771872704
+Después del cambio: Pendiente = 1.0396170233711557, Intercepto = -656.2279923631022, R² = 0.9859931418116833
+Ajuste los datos después del punto de cambio con factor: 0.7940097800178137
+
+Mes: Mayo - Punto de Cambio: 2007
+Antes del cambio: Pendiente = 1.1852434696075318, Intercepto = -52.411252479785844, R² = 0.9900097178113885
+Después del cambio: Pendiente = 0.8120564393969194, Intercepto = 901.228130165412, R² = 0.9932159185700354
+Ajuste los datos antes del punto de cambio con factor: 0.6851389273343262
+
+Mes: Junio - Punto de Cambio: 2011
+Antes del cambio: Pendiente = 0.7851621172801961, Intercepto = 297.9431339178757, R² = 0.9451046005154925
+Después del cambio: Pendiente = 1.1583748363441193, Intercepto = -1070.180334433163, R² = 0.9955270906559988
+Ajuste los datos después del punto de cambio con factor: 0.6778135130750953
+
+Mes: Julio - Punto de Cambio: 2011
+Antes del cambio: Pendiente = 1.136940168216652, Intercepto = -200.59768727145502, R² = 0.9966873283123824
+Después del cambio: Pendiente = 0.99196173875013, Intercepto = 475.66117487113206, R² = 0.9915723813113271
+Ajuste los datos después del punto de cambio con factor: 1.1461532474520584
+
+Mes: Agosto - Punto de Cambio: 2018
+Antes del cambio: Pendiente = 1.0256949729133837, Intercepto = 322.52112441230656, R² = 0.9908388556965484
+Después del cambio: Pendiente = 0.5878378378378376, Intercepto = 2485.0098588119945, R² = 1.0
+Ajuste los datos después del punto de cambio con factor: 1.7448604136917338
+

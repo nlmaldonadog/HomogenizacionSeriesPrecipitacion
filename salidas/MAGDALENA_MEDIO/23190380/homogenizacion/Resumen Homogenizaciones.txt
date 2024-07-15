@@ -1,0 +1,22 @@
+Estacion: 23190380, Vecinas:, [23190350]
+
+Mes: Marzo - Punto de Cambio: 2013
+Antes del cambio: Pendiente = 0.9958186256363786, Intercepto = 10.643375690636049, R² = 0.9959841276376811
+Después del cambio: Pendiente = 1.0836681224437494, Intercepto = -142.4783135730213, R² = 0.998666657062031
+Ajuste los datos después del punto de cambio con factor: 0.9189332093581715
+
+Mes: Abril - Punto de Cambio: 2001
+Antes del cambio: Pendiente = 0.0, Intercepto = 29.0, R² = nan
+Después del cambio: Pendiente = 0.94006878845704, Intercepto = -43.004091324862884, R² = 0.9968943460606126
+Ajuste los datos antes del punto de cambio con factor: inf
+
+Mes: Junio - Punto de Cambio: 2012
+Antes del cambio: Pendiente = 1.126126781681158, Intercepto = -78.70745941011432, R² = 0.9925139453067093
+Después del cambio: Pendiente = 1.0945484448604468, Intercepto = -6.26518189470039, R² = 0.9948818569066289
+Ajuste los datos después del punto de cambio con factor: 1.028850561132301
+
+Mes: Agosto - Punto de Cambio: 2001
+Antes del cambio: Pendiente = 0.0, Intercepto = 26.0, R² = nan
+Después del cambio: Pendiente = 0.9864858047774847, Intercepto = -95.52437055984478, R² = 0.9942072372911002
+Ajuste los datos antes del punto de cambio con factor: inf
+

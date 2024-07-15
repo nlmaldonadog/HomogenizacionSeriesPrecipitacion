@@ -1,0 +1,24 @@
+                                 SARIMAX Results                                  
+==================================================================================
+Dep. Variable:     Precipitación_imputada   No. Observations:                  240
+Model:                 ARIMA(1, 0, 0, 12)   Log Likelihood               -1333.325
+Date:                    Mon, 01 Jul 2024   AIC                           2672.650
+Time:                            13:06:57   BIC                           2683.092
+Sample:                                 0   HQIC                          2676.857
+                                    - 240                                         
+Covariance Type:                      opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         86.1280      5.584     15.424      0.000      75.184      97.072
+ar.S.L12       0.2315      0.064      3.604      0.000       0.106       0.357
+sigma2      3902.0960    350.256     11.141      0.000    3215.607    4588.585
+===================================================================================
+Ljung-Box (L1) (Q):                   0.00   Jarque-Bera (JB):                13.57
+Prob(Q):                              0.99   Prob(JB):                         0.00
+Heteroskedasticity (H):               1.21   Skew:                             0.55
+Prob(H) (two-sided):                  0.39   Kurtosis:                         3.36
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).

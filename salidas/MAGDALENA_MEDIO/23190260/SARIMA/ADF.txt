@@ -1,0 +1,9 @@
+Estacion: 23190260
+ADF Statistic: -4.715947
+p-value: 0.000079
+Critical Values:
+	1%: -3.460
+	5%: -2.875
+	10%: -2.574
+
+
